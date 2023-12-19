@@ -10,12 +10,12 @@ cells.forEach(cell => {
             player = "player 1"
             value = "X"
             cell.textContent = value
-            winner(value)
+            setTimeout(() => winner(value),100)
         } else {
             player = "player 2"
             value = "O"
             cell.textContent = value
-            winner(value)
+            setTimeout(() => winner(value), 100)
         }
     })
 })

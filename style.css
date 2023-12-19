@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    color-scheme: light dark;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+.cell-container{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    width: 100%;
+    border-radius: 20px;
+    
+}
+.cell{
+    /* padding: 20px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 33.33333%;
+    height: 120px;
+    border: 1px solid black;
+    font-size: 5rem;
+    border-radius: 20px;
+    background-color: rgb(51, 51, 51);    
+}
+.tiktoktoe{
+    min-width: 50vmin;
+    min-height: 50vmin;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.restart{
+    font-size: 4rem;
+    padding: 20px;
+    background-color: rgb(75, 75, 228);
+margin-top: 20px;
+border-radius: 20px;
+}

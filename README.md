@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Benedetto Miceli</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 <h3 align="center">This is my tris game with html, css and js!</h3>
-![image](https://github.com/benni90100/tris-game/assets/145984404/1a6d8e4c-71de-42ff-9815-747a90d15f59)
+![image](https://github.com/benni90100/tris-game/assets/145984404/59b397f7-a077-436a-bf4c-71edfbc25e1c)
+
 - 🌱 I’m currently learning **react.js, node.js**
 
 - 📫 How to reach me **micelibenedetto800@gmail.com**

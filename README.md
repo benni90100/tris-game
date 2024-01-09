@@ -6,7 +6,8 @@
 
 
 - 🌱 I’m currently learning **react.js, node.js**
-- ![image](https://github.com/benni90100/tris-game/assets/145984404/59b397f7-a077-436a-bf4c-71edfbc25e1c)
+- ![image](https://github.com/benni90100/tris-game/assets/145984404/74fa5581-d22f-453d-948c-6430417536ef)
+
 
 - 📫 How to reach me **micelibenedetto800@gmail.com**
 
